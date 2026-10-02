@@ -3,6 +3,8 @@
 Пользовательский интерфейс для отправки и получения **текстовых сообщений** в мессенджере
 [MAX](https://web.max.ru/) через сервис [GREEN-API](https://green-api.com/max).
 
+Публикация: https://sdntmn.github.io/green-chat-max/
+
 ## Возможности
 
 - Экран входа с полями `idInstance` и `apiTokenInstance` (предзаполняются из `.env`),
